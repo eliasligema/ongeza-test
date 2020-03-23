@@ -1,0 +1,8 @@
+[{
+    "type": "pop",
+    "id": "scheduled_notification_id",
+    "title": "New Order",
+    "message": "Best order ever",
+    "link": "http://localhost/projects/mjuzi/",
+    "timestamp": "2019-12-14 10:10:00"
+}]

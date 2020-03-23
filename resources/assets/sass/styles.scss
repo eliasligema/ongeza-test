@@ -1,0 +1,29 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "../bootstrap/scss/bootstrap.scss";
+.app-calendar {
+    @import "./customs/calendar";
+}
+ 
+@import "./customs/layout";
+@import "./customs/loader";
+@import "./customs/sidebar";
+@import "./customs/style";
+@import "./customs/custom";
+
+@import "../vendor/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.min";
+@import "../vendor/bootstrap-datetimepicker/css/bootstrap-datetimepicker.min";
+@import "../vendor/iEdit/iEdit";
+@import "../vendor/tagify/tagify";
+@import "../vendor/daterangepicker/daterangepicker";
+@import "../vendor/fontawesome-iconpicker-master/dist/css/fontawesome-iconpicker";
+@import "../vendor/select2/css/select2.min";
+@import "../vendor/lightslider/css/lightslider";
+@import "../vendor/lightslider/css/lightgallery";
+
